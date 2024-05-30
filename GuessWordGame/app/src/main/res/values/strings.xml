@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GuessWordGame</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="text_v_ew2">TEXT VİEW2</string>
+    <string name="textview2">textview2</string>
+    <string name="enter_your_text">Enter your Text</string>
+    <string name="show">Show</string>
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+</resources>
